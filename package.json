@@ -1,6 +1,6 @@
 {
   "name": "@brzezinskimarcin/eslint-config",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Marcin's ESLint config based on Anthony's one",
   "author": "Marcin Brzeziński <brzezinskimarcin97@gmail.com> (https://github.com/brzezinskimarcin/)",
   "license": "MIT",
@@ -10,7 +10,8 @@
   ],
   "main": "index.js",
   "files": [
-    "index.js"
+    "index.js",
+    "overrides.js"
   ],
   "peerDependencies": {
     "eslint": ">=7.4.0"
