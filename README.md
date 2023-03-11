@@ -9,6 +9,7 @@ ESlint config based on [antfu/eslint-config](https://github.com/antfu/eslint-con
 - always require [curly brackets](https://eslint.org/docs/latest/rules/curly)
 - for typescript projects: [prohibit enums](https://www.youtube.com/watch?v=jjMbPt_H3RQ)
 - some more strict checks, especially for typescript and vue
+- built-in support for pug
 
 ## Usage
 
